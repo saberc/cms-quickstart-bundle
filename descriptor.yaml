@@ -1,0 +1,11 @@
+code: cms-quickstart-bundle
+description: This is a simple CMS bundle
+
+components:
+
+  contentTypes:
+    - contenttypes/my_content_type_descriptor.yaml
+
+  contentModels:
+    - contenttemplates/my_content_template_descriptor.yaml
+    - contenttemplates/another_content_template_descriptor.yaml
